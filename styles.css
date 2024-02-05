@@ -1,0 +1,32 @@
+h1 {
+    color: #888;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background-color: black;
+    font-family: "Courier New";
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+}
+
+#nav-table {
+    width: 800px;
+}
+
+#nav-td {   
+    width: 333px;
+    text-align: center;
+}
+
+div {
+    height: 100%;
+    width: 800px;
+    margin: 0px;
+    margin: auto;
+    background-color: #333;
+}
